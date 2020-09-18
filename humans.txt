@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ritik Kumar    rkapsime126@gmail.com   @awesomerk
 
 # THANKS
 
